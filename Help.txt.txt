@@ -1,0 +1,7 @@
+Запуск виртуального окружения 
+
+ source venv/Scripts/activate
+
+Дактивация 
+
+deactivate
